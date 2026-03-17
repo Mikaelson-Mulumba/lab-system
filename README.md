@@ -26,6 +26,7 @@ Frontend: Flutter (cross‑platform: Android, iOS, Web)
 Database: SQLite (offline storage)
 
 
+
 Version Control: GitHub with clean baselines and CI/CD pipelines
 
 🌍 Impact
