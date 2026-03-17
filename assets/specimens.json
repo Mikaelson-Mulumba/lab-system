@@ -1,0 +1,135 @@
+[
+  {
+    "specimenType": "Blood",
+    "commonUses": [
+      "Hematology (CBC, ESR, platelet count)",
+      "Chemistry (glucose, electrolytes, lipid profile)",
+      "Serology (HIV, hepatitis, autoimmune antibodies)",
+      "Tumor markers (PSA, AFP, CEA, CA-125)",
+      "Cardiac markers (Troponin, CK-MB, BNP)"
+    ]
+  },
+  {
+    "specimenType": "Urine",
+    "commonUses": [
+      "Urinalysis (dipstick, microscopy)",
+      "Culture (UTI diagnosis)",
+      "Pregnancy testing (hCG)",
+      "Renal function (protein/albumin, electrolytes)"
+    ]
+  },
+  {
+    "specimenType": "Stool",
+    "commonUses": [
+      "Occult blood testing (FOBT)",
+      "Stool culture (Salmonella, Shigella, Vibrio, E. coli O157:H7)",
+      "Parasitology (ova, cysts, parasites)",
+      "H. pylori stool antigen",
+      "Malabsorption studies"
+    ]
+  },
+  {
+    "specimenType": "Cerebrospinal Fluid (CSF)",
+    "commonUses": [
+      "Culture (bacterial meningitis)",
+      "Gram stain",
+      "PCR for meningitis pathogens",
+      "Biochemical analysis (protein, glucose)"
+    ]
+  },
+  {
+    "specimenType": "Pleural Fluid",
+    "commonUses": [
+      "Culture (infection)",
+      "Cytology (malignancy)",
+      "Biochemical analysis (protein, LDH)"
+    ]
+  },
+  {
+    "specimenType": "Saliva",
+    "commonUses": [
+      "DNA testing",
+      "Hormone assays (cortisol, testosterone)",
+      "Viral detection (COVID-19, influenza)"
+    ]
+  },
+  {
+    "specimenType": "Tissue/Biopsy",
+    "commonUses": [
+      "Histopathology (tumors, inflammatory diseases)",
+      "Cytology (Pap smear)",
+      "Fine-needle aspiration (FNA)"
+    ]
+  },
+  {
+    "specimenType": "Sputum",
+    "commonUses": [
+      "Culture (TB, pneumonia pathogens)",
+      "ZN stain (acid-fast bacilli)",
+      "Sensitivity testing"
+    ]
+  },
+  {
+    "specimenType": "Pus/Wound Swab",
+    "commonUses": [
+      "Culture and sensitivity for bacterial infections",
+      "Anaerobic culture"
+    ]
+  },
+  {
+    "specimenType": "Semen",
+    "commonUses": [
+      "Fertility analysis (sperm count, motility)",
+      "STI testing (gonorrhea, chlamydia, HIV)"
+    ]
+  },
+  {
+    "specimenType": "Other Body Fluids",
+    "commonUses": [
+      "Peritoneal fluid (ascites analysis)",
+      "Synovial fluid (arthritis, gout)",
+      "Pericardial fluid (infection, malignancy)"
+    ]
+  },
+  {
+    "specimenType": "Genital Swabs",
+    "commonUses": [
+      "Vaginal swabs (STI testing: trichomonas, candida)",
+      "Urethral swabs (gonorrhea, chlamydia)"
+    ]
+  },
+  {
+    "specimenType": "Bone Marrow",
+    "commonUses": [
+      "Hematology (leukemia, lymphoma, aplastic anemia)",
+      "Iron stores assessment"
+    ]
+  },
+  {
+    "specimenType": "Ear/Conjunctival Swabs",
+    "commonUses": [
+      "Culture for otitis media pathogens",
+      "Culture for conjunctivitis pathogens"
+    ]
+  },
+  {
+    "specimenType": "Throat/Nasal Swabs",
+    "commonUses": [
+      "Throat swab culture (Strep A)",
+      "Nasal swabs (viral PCR: influenza, COVID-19)"
+    ]
+  },
+  {
+    "specimenType": "Hair/Nails",
+    "commonUses": [
+      "Toxicology (drug testing, heavy metals)",
+      "Fungal infections (dermatophytes)"
+    ]
+  },
+  {
+    "specimenType": "Sweat",
+    "commonUses": [
+      "Chloride test for cystic fibrosis"
+    ]
+  }
+]

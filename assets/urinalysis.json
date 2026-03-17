@@ -1,0 +1,122 @@
+[
+  {
+    "category": "PhysicalExamination",
+    "name": "Color",
+    "reference_range": "Pale yellow",
+    "unit": "—"
+  },
+  {
+    "category": "PhysicalExamination",
+    "name": "Clarity",
+    "reference_range": "Clear",
+    "unit": "—"
+  },
+  {
+    "category": "ChemicalExamination",
+    "name": "LeukocyteEsterase",
+    "reference_range": "Negative",
+    "unit": "—"
+  },
+  {
+    "category": "ChemicalExamination",
+    "name": "Nitrite",
+    "reference_range": "Negative",
+    "unit": "—"
+  },
+  {
+    "category": "ChemicalExamination",
+    "name": "Urobilinogen",
+    "reference_range": "0–1.0",
+    "unit": "mg/dL"
+  },
+  {
+    "category": "ChemicalExamination",
+    "name": "Protein",
+    "reference_range": "Negative",
+    "unit": "—"
+  },
+  {
+    "category": "ChemicalExamination",
+    "name": "pH",
+    "reference_range": "4.5–8.0",
+    "unit": "—"
+  },
+  {
+    "category": "ChemicalExamination",
+    "name": "Blood_Hemoglobin",
+    "reference_range": "Negative",
+    "unit": "—"
+  },
+  {
+    "category": "ChemicalExamination",
+    "name": "SpecificGravity",
+    "reference_range": "1.005–1.030",
+    "unit": "—"
+  },
+  {
+    "category": "ChemicalExamination",
+    "name": "Ketones",
+    "reference_range": "Negative",
+    "unit": "—"
+  },
+  {
+    "category": "ChemicalExamination",
+    "name": "Bilirubin",
+    "reference_range": "Negative",
+    "unit": "—"
+  },
+  {
+    "category": "ChemicalExamination",
+    "name": "Glucose",
+    "reference_range": "Negative",
+    "unit": "—"
+  },
+  {
+    "category": "MicroscopicExamination",
+    "name": "RedBloodCells",
+    "reference_range": "0–2",
+    "unit": "/HPF"
+  },
+  {
+    "category": "MicroscopicExamination",
+    "name": "WhiteBloodCells",
+    "reference_range": "0–5",
+    "unit": "/HPF"
+  },
+  {
+    "category": "MicroscopicExamination",
+    "name": "EpithelialCells",
+    "reference_range": "Few squamous",
+    "unit": "—"
+  },
+  {
+    "category": "MicroscopicExamination",
+    "name": "Casts",
+    "reference_range": "Few hyaline",
+    "unit": "LPF"
+  },
+  {
+    "category": "MicroscopicExamination",
+    "name": "Crystals",
+    "reference_range": "None or few",
+    "unit": "—"
+  },
+  {
+    "category": "MicroscopicExamination",
+    "name": "Bacteria",
+    "reference_range": "None",
+    "unit": "—"
+  },
+  {
+    "category": "MicroscopicExamination",
+    "name": "Yeast",
+    "reference_range": "None",
+    "unit": "—"
+  },
+  {
+    "category": "MicroscopicExamination",
+    "name": "Parasites",
+    "reference_range": "None",
+    "unit": "—"
+  }
+]

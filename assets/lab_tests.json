@@ -1,0 +1,2991 @@
+[
+  {
+    "testType": "Hematology",
+    "testName": "Hemoglobin",
+    "normalRange": "13.5–17.5 (M), 12–15.5 (F)",
+    "unit": "g/dL",
+    "resultCategory": "L",
+    "resComment": "Reduced hemoglobin indicates anemia, which may arise from iron deficiency, chronic disease, renal insufficiency, or occult blood loss."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Hemoglobin",
+    "normalRange": "13.5–17.5 (M), 12–15.5 (F)",
+    "unit": "g/dL",
+    "resultCategory": "N",
+    "resComment": "Hemoglobin concentration is within the expected reference range, indicating adequate oxygen-carrying capacity."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Hemoglobin",
+    "normalRange": "13.5–17.5 (M), 12–15.5 (F)",
+    "unit": "g/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated hemoglobin suggests polycythemia vera, chronic hypoxia, or dehydration."
+  },
+  
+  {
+    "testType": "Hematology",
+    "testName": "White Blood Cell Count",
+    "normalRange": "4.0–11.0",
+    "unit": "×10⁹/L",
+    "resultCategory": "L",
+    "resComment": "Leukopenia may result from bone marrow suppression, viral infections, autoimmune disease, or cytotoxic medications."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "White Blood Cell Count",
+    "normalRange": "4.0–11.0",
+    "unit": "×10⁹/L",
+    "resultCategory": "N",
+    "resComment": "WBC count is within normal limits, indicating no evidence of acute infection or marrow suppression."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "White Blood Cell Count",
+    "normalRange": "4.0–11.0",
+    "unit": "×10⁹/L",
+    "resultCategory": "H",
+    "resComment": "Leukocytosis suggests infection, inflammation, stress response, or hematological malignancy."
+  },
+  
+  {
+    "testType": "Hematology",
+    "testName": "Platelet Count",
+    "normalRange": "150–450",
+    "unit": "×10⁹/L",
+    "resultCategory": "L",
+    "resComment": "Thrombocytopenia increases bleeding risk and may result from bone marrow suppression, immune thrombocytopenia, infections, or drug-induced causes."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Platelet Count",
+    "normalRange": "150–450",
+    "unit": "×10⁹/L",
+    "resultCategory": "N",
+    "resComment": "Platelet count is within normal limits, indicating adequate hemostatic function."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Platelet Count",
+    "normalRange": "150–450",
+    "unit": "×10⁹/L",
+    "resultCategory": "H",
+    "resComment": "Thrombocytosis may be reactive (infection, inflammation, iron deficiency) or due to myeloproliferative disorders."
+  },
+  
+  {
+    "testType": "Hematology",
+    "testName": "Differential WBC Count - Neutrophils",
+    "normalRange": "40–70",
+    "unit": "%",
+    "resultCategory": "H",
+    "resComment": "Neutrophilia suggests bacterial infection, inflammation, stress, or corticosteroid therapy."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Differential WBC Count - Lymphocytes",
+    "normalRange": "20–40",
+    "unit": "%",
+    "resultCategory": "H",
+    "resComment": "Lymphocytosis is commonly seen in viral infections, chronic lymphocytic leukemia, or autoimmune conditions."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Differential WBC Count - Eosinophils",
+    "normalRange": "1–6",
+    "unit": "%",
+    "resultCategory": "H",
+    "resComment": "Eosinophilia suggests allergic reactions, parasitic infections, or hypereosinophilic syndromes."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Differential WBC Count - Basophils",
+    "normalRange": "0–1",
+    "unit": "%",
+    "resultCategory": "H",
+    "resComment": "Basophilia may occur in myeloproliferative disorders, chronic inflammation, or hypersensitivity reactions."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Differential WBC Count - Monocytes",
+    "normalRange": "2–10",
+    "unit": "%",
+    "resultCategory": "H",
+    "resComment": "Monocytosis suggests chronic infections (e.g., tuberculosis), autoimmune disease, or hematological malignancy."
+  },
+  
+  {
+    "testType": "Hematology",
+    "testName": "Reticulocyte Count",
+    "normalRange": "0.5–2.5",
+    "unit": "%",
+    "resultCategory": "H",
+    "resComment": "Elevated reticulocyte count indicates increased red cell production, commonly seen in hemolysis or recovery from anemia."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Reticulocyte Count",
+    "normalRange": "0.5–2.5",
+    "unit": "%",
+    "resultCategory": "L",
+    "resComment": "Low reticulocyte count suggests impaired bone marrow response, as seen in aplastic anemia or marrow suppression."
+  },
+  
+  {
+    "testType": "Hematology",
+    "testName": "Peripheral Smear",
+    "normalRange": "Normal morphology",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal peripheral smear may reveal anisocytosis, poikilocytosis, sickle cells, blasts, or parasites."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Peripheral Smear",
+    "normalRange": "Normal morphology",
+    "unit": "",
+    "resultCategory": "N",
+    "resComment": "Peripheral smear shows normal red cell, white cell, and platelet morphology."
+  },
+  
+  {
+    "testType": "Hematology",
+    "testName": "Erythrocyte Sedimentation Rate (ESR)",
+    "normalRange": "<20 (F), <15 (M)",
+    "unit": "mm/hr",
+    "resultCategory": "H",
+    "resComment": "Elevated ESR indicates inflammation, infection, autoimmune disease, or malignancy."
+  },
+  
+  {
+    "testType": "Hematology",
+    "testName": "Complete Blood Count (CBC)",
+    "normalRange": "Panel dependent",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal CBC may reveal anemia, leukocytosis, leukopenia, or thrombocytopenia."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Full Blood Count (FBC)",
+    "normalRange": "Panel dependent",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal FBC indicates hematological abnormalities such as anemia, infection, or bone marrow suppression."
+  },
+  
+  {
+    "testType": "Hematology",
+    "testName": "Hemoglobin Estimation (Sahli’s Method)",
+    "normalRange": "13.5–17.5 (M), 12–15.5 (F)",
+    "unit": "g/dL",
+    "resultCategory": "L",
+    "resComment": "Low hemoglobin indicates anemia. Sahli’s method provides approximate values."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Hemoglobin Estimation (Sahli’s Method)",
+    "normalRange": "13.5–17.5 (M), 12–15.5 (F)",
+    "unit": "g/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated hemoglobin suggests polycythemia vera, chronic hypoxia, or dehydration."
+  },
+  
+  {
+    "testType": "Hematology",
+    "testName": "Hemoglobin A/C (Hb A/C)",
+    "normalRange": "HbA predominant",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Detection of HbC variant indicates hemoglobin C trait or disease."
+  },
+  
+  {
+    "testType": "Hematology",
+    "testName": "Renal Function Test (RFT)",
+    "normalRange": "Panel dependent",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal RFT may reveal elevated creatinine, BUN, or electrolyte imbalance. Findings suggest impaired renal function. Correlation with eGFR and urinalysis is required."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Liver Function Test (LFT)",
+    "normalRange": "Panel dependent",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal LFT may reveal elevated ALT, AST, ALP, or bilirubin. Findings suggest hepatocellular injury, cholestasis, or impaired synthetic function. Clinical correlation and imaging are recommended."
+  },
+  
+  {
+    "testType": "Hematology",
+    "testName": "Film Comment (Peripheral Blood Smear)",
+    "normalRange": "Normal morphology",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal film comment may reveal anisocytosis, poikilocytosis, sickle cells, blasts, or parasites."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Film Comment (Peripheral Blood Smear)",
+    "normalRange": "Normal morphology",
+    "unit": "",
+    "resultCategory": "N",
+    "resComment": "Peripheral smear shows normal red cell, white cell, and platelet morphology."
+  },
+  
+  {
+    "testType": "Chemistry",
+    "testName": "Fasting Blood Glucose (FBS)",
+    "normalRange": "3.8–5.5",
+    "unit": "mg/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated fasting glucose suggests impaired fasting glucose or diabetes mellitus. Correlation with HbA1c and oral glucose tolerance test is recommended."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Fasting Blood Glucose (FBS)",
+    "normalRange": "3.8–5.5",
+    "unit": "mg/dL",
+    "resultCategory": "L",
+    "resComment": "Low fasting glucose may indicate hypoglycemia due to insulin therapy, fasting, or endocrine disorders."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Random Blood Sugar (RBS)",
+    "normalRange": "<7.8",
+    "unit": "mg/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated random blood sugar suggests diabetes mellitus. Correlation with fasting glucose and HbA1c is required."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "HbA1c",
+    "normalRange": "<5.7",
+    "unit": "%",
+    "resultCategory": "H",
+    "resComment": "Elevated HbA1c indicates poor glycemic control over the past 2–3 months. Values ≥6.5% are diagnostic of diabetes mellitus."
+  },
+  
+  {
+    "testType": "Chemistry",
+    "testName": "Creatinine",
+    "normalRange": "0.6–1.3",
+    "unit": "mg/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated creatinine indicates impaired renal function. Correlation with eGFR is required."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Blood Urea Nitrogen (BUN)",
+    "normalRange": "7–20",
+    "unit": "mg/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated BUN suggests renal impairment, dehydration, or high protein catabolism."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Uric Acid",
+    "normalRange": "3.5–7.2 (M), 2.6–6.0 (F)",
+    "unit": "mg/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated uric acid suggests gout, renal impairment, or increased cell turnover."
+  },
+  
+  {
+    "testType": "Chemistry",
+    "testName": "Sodium",
+    "normalRange": "135–145",
+    "unit": "mmol/L",
+    "resultCategory": "H",
+    "resComment": "Hypernatremia suggests dehydration, excessive sodium intake, or endocrine disorders."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Sodium",
+    "normalRange": "135–145",
+    "unit": "mmol/L",
+    "resultCategory": "L",
+    "resComment": "Hyponatremia may result from fluid overload, SIADH, renal disease, or diuretic use."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Potassium",
+    "normalRange": "3.5–5.0",
+    "unit": "mmol/L",
+    "resultCategory": "H",
+    "resComment": "Hyperkalemia may result from renal failure, hemolysis, or potassium-sparing drugs. It can cause cardiac arrhythmias."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Potassium",
+    "normalRange": "3.5–5.0",
+    "unit": "mmol/L",
+    "resultCategory": "L",
+    "resComment": "Hypokalemia may result from diuretic use, vomiting, diarrhea, or endocrine disorders. It can cause muscle weakness and arrhythmias."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Chloride",
+    "normalRange": "98–106",
+    "unit": "mmol/L",
+    "resultCategory": "H",
+    "resComment": "Hyperchloremia may result from dehydration, renal tubular acidosis, or excessive saline infusion."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Chloride",
+    "normalRange": "98–106",
+    "unit": "mmol/L",
+    "resultCategory": "L",
+    "resComment": "Hypochloremia may result from vomiting, metabolic alkalosis, or diuretic use."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Bicarbonate (HCO₃⁻)",
+    "normalRange": "22–28",
+    "unit": "mmol/L",
+    "resultCategory": "H",
+    "resComment": "Elevated bicarbonate suggests metabolic alkalosis or compensation for respiratory acidosis."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Bicarbonate (HCO₃⁻)",
+    "normalRange": "22–28",
+    "unit": "mmol/L",
+    "resultCategory": "L",
+    "resComment": "Low bicarbonate suggests metabolic acidosis or compensation for respiratory alkalosis."
+  },
+
+  {
+    "testType": "Chemistry",
+    "testName": "Alanine Aminotransferase (ALT)",
+    "normalRange": "7–56",
+    "unit": "U/L",
+    "resultCategory": "H",
+    "resComment": "Elevated ALT suggests hepatocellular injury, commonly due to viral hepatitis, fatty liver disease, or drug-induced liver injury."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Aspartate Aminotransferase (AST)",
+    "normalRange": "10–40",
+    "unit": "U/L",
+    "resultCategory": "H",
+    "resComment": "Elevated AST suggests hepatocellular injury, muscle damage, or alcohol-related liver disease."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Alkaline Phosphatase (ALP)",
+    "normalRange": "44–147",
+    "unit": "U/L",
+    "resultCategory": "H",
+    "resComment": "Elevated ALP suggests cholestasis, biliary obstruction, bone disease, or infiltrative liver disorders."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Total Bilirubin",
+    "normalRange": "0.3–1.2",
+    "unit": "mg/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated bilirubin suggests hepatocellular dysfunction, hemolysis, or biliary obstruction."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Albumin",
+    "normalRange": "3.5–5.0",
+    "unit": "g/dL",
+    "resultCategory": "L",
+    "resComment": "Low albumin suggests chronic liver disease, nephrotic syndrome, or malnutrition."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Total Protein",
+    "normalRange": "6.0–8.3",
+    "unit": "g/dL",
+    "resultCategory": "L",
+    "resComment": "Low total protein suggests malnutrition, liver disease, or protein-losing enteropathy."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Total Protein",
+    "normalRange": "6.0–8.3",
+    "unit": "g/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated total protein may indicate chronic inflammation, infections, or plasma cell disorders such as multiple myeloma."
+  },
+
+  {
+    "testType": "Chemistry",
+    "testName": "Total Cholesterol",
+    "normalRange": "<200",
+    "unit": "mg/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated cholesterol increases cardiovascular risk. Correlation with LDL and HDL levels is required."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Triglycerides",
+    "normalRange": "<150",
+    "unit": "mg/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated triglycerides increase risk of pancreatitis and cardiovascular disease. Often associated with metabolic syndrome."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "High-Density Lipoprotein (HDL)",
+    "normalRange": ">40 (M), >50 (F)",
+    "unit": "mg/dL",
+    "resultCategory": "L",
+    "resComment": "Low HDL increases cardiovascular risk. Lifestyle modification and exercise are recommended."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Low-Density Lipoprotein (LDL)",
+    "normalRange": "<100",
+    "unit": "mg/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated LDL is a major risk factor for atherosclerosis and cardiovascular disease."
+  },
+  
+  {
+    "testType": "Chemistry",
+    "testName": "Amylase",
+    "normalRange": "30–110",
+    "unit": "U/L",
+    "resultCategory": "H",
+    "resComment": "Elevated amylase suggests acute pancreatitis, salivary gland disease, or renal impairment."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Lipase",
+    "normalRange": "0–160",
+    "unit": "U/L",
+    "resultCategory": "H",
+    "resComment": "Elevated lipase is more specific for acute pancreatitis and pancreatic injury."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Lactate Dehydrogenase (LDH)",
+    "normalRange": "140–280",
+    "unit": "U/L",
+    "resultCategory": "H",
+    "resComment": "Elevated LDH suggests tissue breakdown, hemolysis, myocardial infarction, or malignancy."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Creatine Kinase (CK)",
+    "normalRange": "30–200",
+    "unit": "U/L",
+    "resultCategory": "H",
+    "resComment": "Elevated CK suggests muscle injury, myocardial infarction, or rhabdomyolysis."
+  },
+
+  {
+    "testType": "Chemistry",
+    "testName": "Thyroid Stimulating Hormone (TSH)",
+    "normalRange": "0.4–4.0",
+    "unit": "mIU/L",
+    "resultCategory": "H",
+    "resComment": "Elevated TSH suggests primary hypothyroidism or inadequate thyroid hormone replacement."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Thyroid Stimulating Hormone (TSH)",
+    "normalRange": "0.4–4.0",
+    "unit": "mIU/L",
+    "resultCategory": "L",
+    "resComment": "Low TSH suggests hyperthyroidism or excessive thyroid hormone replacement."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Triiodothyronine (T3)",
+    "normalRange": "80–200",
+    "unit": "ng/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated T3 suggests hyperthyroidism or thyrotoxicosis."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Triiodothyronine (T3)",
+    "normalRange": "80–200",
+    "unit": "ng/dL",
+    "resultCategory": "L",
+    "resComment": "Low T3 suggests hypothyroidism or non-thyroidal illness."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Thyroxine (T4)",
+    "normalRange": "5–12",
+    "unit": "µg/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated T4 suggests hyperthyroidism or thyrotoxicosis."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Thyroxine (T4)",
+    "normalRange": "5–12",
+    "unit": "µg/dL",
+    "resultCategory": "L",
+    "resComment": "Low T4 suggests hypothyroidism or impaired thyroid hormone production."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Cortisol",
+    "normalRange": "5–25 (morning)",
+    "unit": "µg/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated cortisol suggests Cushing’s syndrome, stress, or corticosteroid therapy."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Cortisol",
+    "normalRange": "5–25 (morning)",
+    "unit": "µg/dL",
+    "resultCategory": "L",
+    "resComment": "Low cortisol suggests adrenal insufficiency (Addison’s disease) or pituitary dysfunction."
+  },
+  
+  {
+    "testType": "Chemistry",
+    "testName": "Calcium",
+    "normalRange": "8.5–10.5",
+    "unit": "mg/dL",
+    "resultCategory": "H",
+    "resComment": "Hypercalcemia suggests hyperparathyroidism, malignancy, or vitamin D intoxication."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Calcium",
+    "normalRange": "8.5–10.5",
+    "unit": "mg/dL",
+    "resultCategory": "L",
+    "resComment": "Hypocalcemia suggests hypoparathyroidism, vitamin D deficiency, or chronic kidney disease."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Phosphate",
+    "normalRange": "2.5–4.5",
+    "unit": "mg/dL",
+    "resultCategory": "H",
+    "resComment": "Hyperphosphatemia suggests renal failure, hypoparathyroidism, or tumor lysis syndrome."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Phosphate",
+    "normalRange": "2.5–4.5",
+    "unit": "mg/dL",
+    "resultCategory": "L",
+    "resComment": "Hypophosphatemia suggests malnutrition, hyperparathyroidism, or chronic alcohol use."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Magnesium",
+    "normalRange": "1.7–2.2",
+    "unit": "mg/dL",
+    "resultCategory": "H",
+    "resComment": "Hypermagnesemia suggests renal failure or excessive magnesium intake. May cause neuromuscular depression."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Magnesium",
+    "normalRange": "1.7–2.2",
+    "unit": "mg/dL",
+    "resultCategory": "L",
+    "resComment": "Hypomagnesemia suggests malnutrition, chronic alcoholism, or diuretic use. May cause arrhythmias and neuromuscular irritability."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Serum Iron",
+    "normalRange": "60–170",
+    "unit": "µg/dL",
+    "resultCategory": "L",
+    "resComment": "Low serum iron suggests iron deficiency anemia or chronic disease."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Serum Iron",
+    "normalRange": "60–170",
+    "unit": "µg/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated serum iron suggests hemochromatosis, hemolysis, or iron overload."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Ferritin",
+    "normalRange": "12–300 (M), 12–150 (F)",
+    "unit": "ng/mL",
+    "resultCategory": "L",
+    "resComment": "Low ferritin indicates iron deficiency anemia."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Ferritin",
+    "normalRange": "12–300 (M), 12–150 (F)",
+    "unit": "ng/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated ferritin suggests iron overload, inflammation, or liver disease."
+  },
+
+  {
+    "testType": "Chemistry",
+    "testName": "C-Reactive Protein (CRP)",
+    "normalRange": "<10",
+    "unit": "mg/L",
+    "resultCategory": "H",
+    "resComment": "Elevated CRP indicates acute inflammation, infection, or tissue injury. It is a nonspecific marker."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "High-Sensitivity CRP (hs-CRP)",
+    "normalRange": "<3",
+    "unit": "mg/L",
+    "resultCategory": "H",
+    "resComment": "Elevated hs-CRP suggests increased cardiovascular risk due to chronic low-grade inflammation."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Troponin I/T",
+    "normalRange": "<0.04",
+    "unit": "ng/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated troponin indicates myocardial injury, commonly due to acute myocardial infarction."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "B-type Natriuretic Peptide (BNP)",
+    "normalRange": "<100",
+    "unit": "pg/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated BNP suggests heart failure and increased ventricular wall stress."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Procalcitonin",
+    "normalRange": "<0.1",
+    "unit": "ng/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated procalcitonin suggests bacterial infection or sepsis. Useful for guiding antibiotic therapy."
+  },
+
+  {
+    "testType": "Chemistry",
+    "testName": "Vitamin D (25‑OH)",
+    "normalRange": "30–100",
+    "unit": "ng/mL",
+    "resultCategory": "L",
+    "resComment": "Low vitamin D suggests deficiency, associated with bone weakness, rickets, or osteoporosis."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Vitamin D (25‑OH)",
+    "normalRange": "30–100",
+    "unit": "ng/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated vitamin D suggests excessive supplementation and risk of hypercalcemia."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Vitamin B12",
+    "normalRange": "200–900",
+    "unit": "pg/mL",
+    "resultCategory": "L",
+    "resComment": "Low vitamin B12 suggests deficiency, associated with megaloblastic anemia and neuropathy."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Vitamin B12",
+    "normalRange": "200–900",
+    "unit": "pg/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated vitamin B12 may result from supplementation or liver disease."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Folate",
+    "normalRange": "2–20",
+    "unit": "ng/mL",
+    "resultCategory": "L",
+    "resComment": "Low folate suggests deficiency, associated with megaloblastic anemia."
+  },
+  {
+    "testType": "Chemistry",
+    "testName": "Homocysteine",
+    "normalRange": "<15",
+    "unit": "µmol/L",
+    "resultCategory": "H",
+    "resComment": "Elevated homocysteine suggests increased cardiovascular risk and may indicate folate or B12 deficiency."
+  },
+
+  {
+    "testType": "Microbiology",
+    "testName": "Blood Culture",
+    "normalRange": "No growth",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive blood culture indicates bacteremia or septicemia. Organism identification and sensitivity testing are required."
+  },
+  {
+    "testType": "Microbiology",
+    "testName": "Stool Culture",
+    "normalRange": "No pathogenic growth",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive stool culture indicates enteric infection such as Salmonella, Shigella, or pathogenic E. coli."
+  },
+  {
+    "testType": "Microbiology",
+    "testName": "Sputum Culture",
+    "normalRange": "No pathogenic growth",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive sputum culture indicates respiratory infection such as pneumonia, tuberculosis, or bronchitis. Correlation with clinical findings is required."
+  },
+
+  {
+    "testType": "Microbiology",
+    "testName": "Gram Stain",
+    "normalRange": "No pathogenic organisms",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Gram-positive or Gram-negative organisms detected. Useful for guiding initial antibiotic therapy."
+  },
+  {
+    "testType": "Microbiology",
+    "testName": "Ziehl-Neelsen Stain (AFB Stain)",
+    "normalRange": "No acid-fast bacilli",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Acid-fast bacilli detected, suggestive of Mycobacterium tuberculosis or related species."
+  },
+  {
+    "testType": "Microbiology",
+    "testName": "KOH Preparation",
+    "normalRange": "No fungal elements",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Fungal hyphae or yeast cells detected, indicating superficial or systemic fungal infection."
+  },
+  {
+    "testType": "Microbiology",
+    "testName": "India Ink Preparation",
+    "normalRange": "No encapsulated yeast",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Encapsulated yeast detected, suggestive of Cryptococcus species."
+  },
+  
+  {
+    "testType": "Microbiology",
+    "testName": "Widal Test",
+    "normalRange": "<1:80",
+    "unit": "titer",
+    "resultCategory": "Abn",
+    "resComment": "Elevated Widal titers suggest Salmonella infection (typhoid fever). Requires correlation with clinical findings."
+  },
+  {
+    "testType": "Microbiology",
+    "testName": "VDRL (Venereal Disease Research Laboratory)",
+    "normalRange": "Non-reactive",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Reactive VDRL suggests syphilis infection. Confirmation with treponemal-specific tests is required."
+  },
+  {
+    "testType": "Microbiology",
+    "testName": "HIV Test",
+    "normalRange": "Non-reactive",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Reactive HIV test suggests HIV infection. Confirmation with Western blot or PCR is required."
+  },
+  {
+    "testType": "Microbiology",
+    "testName": "HBsAg (Hepatitis B Surface Antigen)",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive HBsAg indicates active Hepatitis B infection. Requires further serological profiling."
+  },
+  {
+    "testType": "Microbiology",
+    "testName": "Anti-HCV Antibody",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive Anti-HCV antibody suggests Hepatitis C infection. Confirmation with HCV RNA testing is required."
+  },
+
+  {
+    "testType": "Microbiology",
+    "testName": "Stool Analysis",
+    "normalRange": "No ova or parasites",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Presence of ova or parasites indicates intestinal parasitic infection such as Giardia, Entamoeba histolytica, or helminths."
+  },
+  {
+    "testType": "Microbiology",
+    "testName": "Malaria Blood Smear",
+    "normalRange": "No parasites seen",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive smear indicates malaria infection. Species identification and parasite density are required."
+  },
+  {
+    "testType": "Microbiology",
+    "testName": "MRDT",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive rapid test indicates malaria infection. Confirmation with microscopy is recommended."
+  },
+  {
+    "testType": "Microbiology",
+    "testName": "Stool Occult Blood Test",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive occult blood suggests gastrointestinal bleeding, peptic ulcer disease, or colorectal cancer."
+  },
+
+  {
+    "testType": "Microbiology",
+    "testName": "Fungal Culture",
+    "normalRange": "No fungal growth",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive fungal culture indicates systemic or localized fungal infection. Species identification is required."
+  },
+  {
+    "testType": "Microbiology",
+    "testName": "Candida Culture",
+    "normalRange": "No growth",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive Candida culture suggests candidiasis, which may be superficial or systemic depending on clinical context."
+  },
+  {
+    "testType": "Microbiology",
+    "testName": "Aspergillus Antigen Test",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive Aspergillus antigen test suggests invasive aspergillosis. Correlation with imaging and culture is required."
+  },
+  {
+    "testType": "Microbiology",
+    "testName": "Cryptococcus Antigen Test",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive Cryptococcus antigen test suggests cryptococcal infection, often associated with immunocompromised states."
+  },
+  
+  {
+    "testType": "Immunology",
+    "testName": "Antinuclear Antibody (ANA)",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive ANA suggests autoimmune disease such as systemic lupus erythematosus, Sjögren’s syndrome, or mixed connective tissue disease."
+  },
+  {
+    "testType": "Immunology",
+    "testName": "Rheumatoid Factor (RF)",
+    "normalRange": "<20",
+    "unit": "IU/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated RF suggests rheumatoid arthritis or other autoimmune conditions. Correlation with anti-CCP antibody is recommended."
+  },
+  {
+    "testType": "Immunology",
+    "testName": "Anti-dsDNA Antibody",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive anti-dsDNA antibody is highly specific for systemic lupus erythematosus."
+  },
+  {
+    "testType": "Immunology",
+    "testName": "Anti-CCP Antibody",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive anti-CCP antibody suggests rheumatoid arthritis with higher specificity than RF."
+  },
+  {
+    "testType": "Immunology",
+    "testName": "C-Reactive Protein (CRP) – Immunology",
+    "normalRange": "<10",
+    "unit": "mg/L",
+    "resultCategory": "H",
+    "resComment": "Elevated CRP indicates systemic inflammation, autoimmune activity, or infection. Used as a marker of disease activity."
+  },
+  
+  {
+    "testType": "Immunology",
+    "testName": "Complement C3",
+    "normalRange": "90–180",
+    "unit": "mg/dL",
+    "resultCategory": "L",
+    "resComment": "Low C3 suggests complement consumption in autoimmune disease (e.g., lupus) or recurrent infections."
+  },
+  {
+    "testType": "Immunology",
+    "testName": "Complement C4",
+    "normalRange": "10–40",
+    "unit": "mg/dL",
+    "resultCategory": "L",
+    "resComment": "Low C4 suggests complement consumption in autoimmune disease, especially systemic lupus erythematosus."
+  },
+  {
+    "testType": "Immunology",
+    "testName": "Immunoglobulin G (IgG)",
+    "normalRange": "700–1600",
+    "unit": "mg/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated IgG suggests chronic infection, autoimmune disease, or multiple myeloma."
+  },
+  {
+    "testType": "Immunology",
+    "testName": "Immunoglobulin A (IgA)",
+    "normalRange": "70–400",
+    "unit": "mg/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated IgA suggests chronic liver disease, autoimmune disease, or IgA nephropathy."
+  },
+  {
+    "testType": "Immunology",
+    "testName": "Immunoglobulin M (IgM)",
+    "normalRange": "40–230",
+    "unit": "mg/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated IgM suggests acute infection or Waldenström’s macroglobulinemia."
+  },
+  {
+    "testType": "Immunology",
+    "testName": "Immunoglobulin E (IgE)",
+    "normalRange": "<100",
+    "unit": "IU/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated IgE suggests allergic disease, parasitic infection, or atopic conditions."
+  },
+  
+  {
+    "testType": "Immunology",
+    "testName": "Anti-Smith (Anti-Sm) Antibody",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive Anti-Smith antibody is highly specific for systemic lupus erythematosus (SLE)."
+  },
+  {
+    "testType": "Immunology",
+    "testName": "Anti-RNP Antibody",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive Anti-RNP antibody suggests mixed connective tissue disease or overlap syndromes."
+  },
+  {
+    "testType": "Immunology",
+    "testName": "Anti-centromere Antibody",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive Anti-centromere antibody is associated with limited cutaneous systemic sclerosis (CREST syndrome)."
+  },
+  {
+    "testType": "Immunology",
+    "testName": "Anti-mitochondrial Antibody (AMA)",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive Anti-mitochondrial antibody is strongly associated with primary biliary cholangitis."
+  },
+  {
+    "testType": "Immunology",
+    "testName": "Anti-Scl-70 (Topoisomerase I) Antibody",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive Anti-Scl-70 antibody is associated with diffuse systemic sclerosis and interstitial lung disease."
+  },
+  
+  {
+    "testType": "Histopathology",
+    "testName": "Tissue Biopsy",
+    "normalRange": "No malignancy or abnormal tissue",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Histological examination reveals abnormal or malignant cells. Diagnosis depends on tissue type and pathology findings."
+  },
+  {
+    "testType": "Histopathology",
+    "testName": "Fine Needle Aspiration Cytology (FNAC)",
+    "normalRange": "No malignant cells",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Presence of malignant or atypical cells suggests neoplastic disease. Further histological confirmation may be required."
+  },
+  {
+    "testType": "Histopathology",
+    "testName": "Pap Smear (Cervical Cytology)",
+    "normalRange": "Negative for intraepithelial lesion or malignancy",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal Pap smear suggests cervical dysplasia or malignancy. Requires correlation with HPV testing and colposcopy."
+  },
+  {
+    "testType": "Histopathology",
+    "testName": "Bone Marrow Biopsy",
+    "normalRange": "Normal hematopoiesis",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal findings suggest hematological disorders such as leukemia, lymphoma, or aplastic anemia."
+  },
+  
+  {
+    "testType": "Histopathology",
+    "testName": "Hematoxylin & Eosin (H&E) Stain",
+    "normalRange": "Normal tissue architecture",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal H&E findings reveal tissue pathology such as inflammation, dysplasia, or malignancy."
+  },
+  {
+    "testType": "Histopathology",
+    "testName": "Periodic Acid-Schiff (PAS) Stain",
+    "normalRange": "No abnormal glycogen or fungi",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive PAS stain indicates glycogen storage, fungal organisms, or basement membrane thickening."
+  },
+  {
+    "testType": "Histopathology",
+    "testName": "Immunohistochemistry (IHC) – Cytokeratin",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive cytokeratin staining indicates epithelial origin of tumor cells."
+  },
+  {
+    "testType": "Histopathology",
+    "testName": "Immunohistochemistry (IHC) – CD3/CD20",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive CD3/CD20 staining helps differentiate T-cell vs B-cell lymphomas."
+  },
+  {
+    "testType": "Histopathology",
+    "testName": "Immunohistochemistry (IHC) – HER2/neu",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive HER2/neu staining indicates HER2-positive breast cancer, guiding targeted therapy."
+  },
+
+  {
+    "testType": "Histopathology",
+    "testName": "Karyotyping",
+    "normalRange": "Normal chromosomal pattern",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal karyotype suggests chromosomal disorders such as Down syndrome, Turner syndrome, or translocations in malignancies."
+  },
+  {
+    "testType": "Histopathology",
+    "testName": "Fluorescence In Situ Hybridization (FISH)",
+    "normalRange": "No abnormal gene rearrangements",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive FISH indicates specific chromosomal abnormalities, useful in leukemia, lymphoma, and solid tumors."
+  },
+  {
+    "testType": "Histopathology",
+    "testName": "Polymerase Chain Reaction (PCR)",
+    "normalRange": "No pathogenic DNA/RNA detected",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive PCR indicates presence of specific genetic material, useful for infectious disease diagnosis and mutation analysis."
+  },
+  {
+    "testType": "Histopathology",
+    "testName": "Next-Generation Sequencing (NGS)",
+    "normalRange": "No pathogenic variants",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "NGS detects genetic mutations, insertions, deletions, or rearrangements. Useful in oncology and inherited disease profiling."
+  },
+  {
+    "testType": "Histopathology",
+    "testName": "Southern Blot",
+    "normalRange": "No abnormal DNA fragments",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal Southern blot indicates gene rearrangements or mutations, historically used in genetic disease diagnosis."
+  },
+  
+  {
+    "testType": "Hematology",
+    "testName": "Prothrombin Time (PT)",
+    "normalRange": "11–15",
+    "unit": "seconds",
+    "resultCategory": "H",
+    "resComment": "Prolonged PT suggests clotting factor deficiency, liver disease, vitamin K deficiency, or anticoagulant therapy (e.g., warfarin)."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "International Normalized Ratio (INR)",
+    "normalRange": "0.8–1.2",
+    "unit": "",
+    "resultCategory": "H",
+    "resComment": "Elevated INR indicates increased bleeding risk, commonly due to anticoagulant therapy or liver dysfunction."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Activated Partial Thromboplastin Time (aPTT)",
+    "normalRange": "25–35",
+    "unit": "seconds",
+    "resultCategory": "H",
+    "resComment": "Prolonged aPTT suggests intrinsic pathway abnormalities, hemophilia, or heparin therapy."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Thrombin Time (TT)",
+    "normalRange": "14–19",
+    "unit": "seconds",
+    "resultCategory": "H",
+    "resComment": "Prolonged TT suggests fibrinogen abnormalities, dysfibrinogenemia, or anticoagulant therapy."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "D-Dimer",
+    "normalRange": "<0.5",
+    "unit": "µg/mL FEU",
+    "resultCategory": "H",
+    "resComment": "Elevated D-dimer suggests active fibrinolysis, seen in deep vein thrombosis, pulmonary embolism, or disseminated intravascular coagulation (DIC)."
+  },
+  
+  {
+    "testType": "Hematology",
+    "testName": "ABO Blood Grouping",
+    "normalRange": "A, B, AB, or O",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Determines the ABO blood group system. Critical for transfusion compatibility."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Rh (D) Typing",
+    "normalRange": "Positive or Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Determines Rh status. Important for transfusion and pregnancy management."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Direct Coombs Test (Direct Antiglobulin Test)",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive result indicates immune-mediated hemolysis, such as autoimmune hemolytic anemia or hemolytic disease of the newborn."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Indirect Coombs Test",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive result indicates presence of antibodies against red blood cells. Used in crossmatching and prenatal testing."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Crossmatch (Compatibility Testing)",
+    "normalRange": "Compatible",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Incompatible crossmatch indicates risk of transfusion reaction. Essential before blood transfusion."
+  },
+  
+  {
+    "testType": "Hematology",
+    "testName": "Bleeding Time (BT)",
+    "normalRange": "2–7",
+    "unit": "minutes",
+    "resultCategory": "H",
+    "resComment": "Prolonged bleeding time suggests platelet dysfunction, von Willebrand disease, or thrombocytopenia."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Clotting Time (CT)",
+    "normalRange": "5–15",
+    "unit": "minutes",
+    "resultCategory": "H",
+    "resComment": "Prolonged clotting time suggests coagulation factor deficiency or anticoagulant therapy."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Mixing Studies",
+    "normalRange": "Correction of prolonged PT/aPTT",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Failure to correct prolonged PT/aPTT indicates presence of inhibitors (e.g., lupus anticoagulant). Correction suggests factor deficiency."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Factor VIII Assay",
+    "normalRange": "50–150",
+    "unit": "%",
+    "resultCategory": "L",
+    "resComment": "Low Factor VIII activity suggests Hemophilia A or acquired deficiency."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Factor IX Assay",
+    "normalRange": "50–150",
+    "unit": "%",
+    "resultCategory": "L",
+    "resComment": "Low Factor IX activity suggests Hemophilia B (Christmas disease)."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Fibrinogen Level",
+    "normalRange": "200–400",
+    "unit": "mg/dL",
+    "resultCategory": "L",
+    "resComment": "Low fibrinogen suggests disseminated intravascular coagulation (DIC), liver disease, or congenital afibrinogenemia."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Thrombophilia Panel",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive thrombophilia panel indicates inherited or acquired clotting disorders (e.g., Factor V Leiden, Protein C/S deficiency, Antithrombin deficiency)."
+  },
+  
+  {
+    "testType": "Endocrinology",
+    "testName": "Insulin (Fasting)",
+    "normalRange": "2–25",
+    "unit": "µIU/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated fasting insulin suggests insulin resistance, metabolic syndrome, or early type 2 diabetes."
+  },
+  {
+    "testType": "Endocrinology",
+    "testName": "Growth Hormone (GH)",
+    "normalRange": "<10",
+    "unit": "ng/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated GH suggests acromegaly or gigantism. Suppression testing with glucose is required."
+  },
+  {
+    "testType": "Endocrinology",
+    "testName": "Prolactin",
+    "normalRange": "4–23 (M), 4–30 (F)",
+    "unit": "ng/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated prolactin suggests prolactinoma, hypothyroidism, or drug-induced hyperprolactinemia."
+  },
+  {
+    "testType": "Endocrinology",
+    "testName": "Testosterone",
+    "normalRange": "300–1000 (M), 15–70 (F)",
+    "unit": "ng/dL",
+    "resultCategory": "L",
+    "resComment": "Low testosterone suggests hypogonadism, pituitary dysfunction, or chronic illness."
+  },
+  {
+    "testType": "Endocrinology",
+    "testName": "Estradiol (E2)",
+    "normalRange": "15–350 (F, cycle dependent), <50 (M)",
+    "unit": "pg/mL",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal estradiol levels suggest ovarian dysfunction, menopause, or estrogen-secreting tumors."
+  },
+  {
+    "testType": "Endocrinology",
+    "testName": "Progesterone",
+    "normalRange": "0.1–1.5 (F, follicular), 2–25 (F, luteal)",
+    "unit": "ng/mL",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal progesterone levels suggest luteal phase defect, pregnancy status, or ovarian dysfunction."
+  },
+
+  {
+    "testType": "Endocrinology",
+    "testName": "Adrenocorticotropic Hormone (ACTH)",
+    "normalRange": "10–60",
+    "unit": "pg/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated ACTH suggests Cushing’s disease (pituitary cause) or ectopic ACTH production."
+  },
+  {
+    "testType": "Endocrinology",
+    "testName": "Aldosterone",
+    "normalRange": "4–31 (supine), 7–160 (upright)",
+    "unit": "ng/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated aldosterone suggests primary hyperaldosteronism (Conn’s syndrome)."
+  },
+  {
+    "testType": "Endocrinology",
+    "testName": "Renin Activity",
+    "normalRange": "0.5–4.0",
+    "unit": "ng/mL/hr",
+    "resultCategory": "H",
+    "resComment": "Elevated renin activity suggests secondary hyperaldosteronism due to renal artery stenosis or diuretic use."
+  },
+  {
+    "testType": "Endocrinology",
+    "testName": "Dehydroepiandrosterone Sulfate (DHEA-S)",
+    "normalRange": "35–430 (M), 45–320 (F)",
+    "unit": "µg/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated DHEA-S suggests adrenal hyperplasia, adrenal tumors, or polycystic ovary syndrome (PCOS)."
+  },
+  {
+    "testType": "Endocrinology",
+    "testName": "17-Hydroxyprogesterone",
+    "normalRange": "<200",
+    "unit": "ng/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated 17-hydroxyprogesterone suggests congenital adrenal hyperplasia (CAH)."
+  },
+  {
+    "testType": "Endocrinology",
+    "testName": "Adrenal Antibody Test",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive adrenal antibodies suggest autoimmune adrenalitis, a common cause of Addison’s disease."
+  },
+  
+  {
+    "testType": "Oncology",
+    "testName": "Prostate-Specific Antigen (PSA)",
+    "normalRange": "<4",
+    "unit": "ng/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated PSA suggests prostate cancer, benign prostatic hyperplasia, or prostatitis. Requires correlation with clinical findings."
+  },
+  {
+    "testType": "Oncology",
+    "testName": "Carcinoembryonic Antigen (CEA)",
+    "normalRange": "<5",
+    "unit": "ng/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated CEA suggests colorectal cancer, gastric cancer, or pancreatic cancer. Also elevated in smokers."
+  },
+  {
+    "testType": "Oncology",
+    "testName": "Alpha-Fetoprotein (AFP)",
+    "normalRange": "<10",
+    "unit": "ng/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated AFP suggests hepatocellular carcinoma, germ cell tumors, or liver disease."
+  },
+  {
+    "testType": "Oncology",
+    "testName": "CA-125",
+    "normalRange": "<35",
+    "unit": "U/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated CA-125 suggests ovarian cancer, but may also be elevated in endometriosis or pelvic inflammatory disease."
+  },
+  {
+    "testType": "Oncology",
+    "testName": "CA 19-9",
+    "normalRange": "<37",
+    "unit": "U/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated CA 19-9 suggests pancreatic cancer, cholangiocarcinoma, or gastrointestinal malignancy."
+  },
+  {
+    "testType": "Oncology",
+    "testName": "Beta-hCG (Tumor Marker)",
+    "normalRange": "<5",
+    "unit": "mIU/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated beta-hCG suggests germ cell tumors, trophoblastic disease, or testicular cancer."
+  },
+
+  {
+    "testType": "Genetics",
+    "testName": "BRCA1/BRCA2 Mutation Analysis",
+    "normalRange": "No pathogenic mutation detected",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Pathogenic BRCA1/2 mutations increase risk of breast and ovarian cancer. Genetic counseling is recommended."
+  },
+  {
+    "testType": "Genetics",
+    "testName": "EGFR Mutation Test",
+    "normalRange": "No mutation detected",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "EGFR mutations are associated with non-small cell lung cancer and guide targeted therapy."
+  },
+  {
+    "testType": "Genetics",
+    "testName": "KRAS Mutation Test",
+    "normalRange": "No mutation detected",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "KRAS mutations are common in colorectal and pancreatic cancers. They predict resistance to certain targeted therapies."
+  },
+  {
+    "testType": "Genetics",
+    "testName": "BCR-ABL Fusion Gene (Philadelphia Chromosome)",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive BCR-ABL fusion gene confirms chronic myeloid leukemia (CML). Guides tyrosine kinase inhibitor therapy."
+  },
+  {
+    "testType": "Genetics",
+    "testName": "HER2 Gene Amplification (FISH)",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "HER2 gene amplification is associated with aggressive breast cancer. Guides trastuzumab therapy."
+  },
+  {
+    "testType": "Genetics",
+    "testName": "TP53 Mutation Analysis",
+    "normalRange": "No mutation detected",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "TP53 mutations are linked to multiple cancers and Li-Fraumeni syndrome. Indicates poor prognosis in many malignancies."
+  },
+  
+  {
+    "testType": "Molecular Diagnostics",
+    "testName": "Tuberculosis PCR (GeneXpert MTB/RIF)",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive TB PCR confirms Mycobacterium tuberculosis infection and detects rifampicin resistance."
+  },
+  {
+    "testType": "Molecular Diagnostics",
+    "testName": "HPV Genotyping",
+    "normalRange": "Negative for high-risk HPV",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive high-risk HPV genotype (e.g., 16, 18) indicates increased risk for cervical cancer."
+  },
+  {
+    "testType": "Molecular Diagnostics",
+    "testName": "SARS-CoV-2 PCR",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive SARS-CoV-2 PCR confirms COVID-19 infection. Cycle threshold values may indicate viral load."
+  },
+  {
+    "testType": "Molecular Diagnostics",
+    "testName": "HIV RNA PCR (Viral Load)",
+    "normalRange": "<50",
+    "unit": "copies/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated HIV viral load indicates active replication. Used to monitor treatment response."
+  },
+  {
+    "testType": "Molecular Diagnostics",
+    "testName": "HCV RNA PCR",
+    "normalRange": "Undetectable",
+    "unit": "IU/mL",
+    "resultCategory": "H",
+    "resComment": "Detectable HCV RNA confirms active Hepatitis C infection. Guides antiviral therapy."
+  },
+  {
+    "testType": "Molecular Diagnostics",
+    "testName": "Malaria PCR",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive malaria PCR confirms Plasmodium infection and allows species identification."
+  },
+  
+  {
+    "testType": "Metabolic",
+    "testName": "Carnitine (Total & Free)",
+    "normalRange": "25–50",
+    "unit": "µmol/L",
+    "resultCategory": "L",
+    "resComment": "Low carnitine suggests primary carnitine deficiency or secondary deficiency due to metabolic disorders."
+  },
+  {
+    "testType": "Metabolic",
+    "testName": "Plasma Amino Acid Profile",
+    "normalRange": "Panel dependent",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal amino acid profile suggests inborn errors of metabolism such as phenylketonuria or maple syrup urine disease."
+  },
+  {
+    "testType": "Metabolic",
+    "testName": "Urine Organic Acids",
+    "normalRange": "Panel dependent",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal organic acids indicate metabolic disorders such as mitochondrial disease or organic acidemias."
+  },
+  {
+    "testType": "Nutrition",
+    "testName": "Zinc",
+    "normalRange": "70–120",
+    "unit": "µg/dL",
+    "resultCategory": "L",
+    "resComment": "Low zinc suggests nutritional deficiency, chronic illness, or malabsorption."
+  },
+  {
+    "testType": "Nutrition",
+    "testName": "Copper",
+    "normalRange": "70–140",
+    "unit": "µg/dL",
+    "resultCategory": "L",
+    "resComment": "Low copper suggests Wilson’s disease or malnutrition. Elevated copper may occur in inflammation or liver disease."
+  },
+  {
+    "testType": "Nutrition",
+    "testName": "Selenium",
+    "normalRange": "70–150",
+    "unit": "µg/L",
+    "resultCategory": "L",
+    "resComment": "Low selenium suggests deficiency, associated with cardiomyopathy (Keshan disease) or impaired immunity."
+  },
+  {
+    "testType": "Nutrition",
+    "testName": "Iodine (Urinary)",
+    "normalRange": "100–199",
+    "unit": "µg/L",
+    "resultCategory": "L",
+    "resComment": "Low urinary iodine suggests iodine deficiency, leading to goiter or hypothyroidism."
+  },
+  {
+    "testType": "Cardiology",
+    "testName": "Electrocardiogram (ECG)",
+    "normalRange": "Normal sinus rhythm",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal ECG may reveal arrhythmias, ischemia, myocardial infarction, or conduction defects."
+  },
+  {
+    "testType": "Cardiology",
+    "testName": "Echocardiography",
+    "normalRange": "Normal cardiac structure and function",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal echocardiogram may reveal valvular disease, cardiomyopathy, or reduced ejection fraction."
+  },
+  {
+    "testType": "Cardiology",
+    "testName": "Troponin T (High-Sensitivity)",
+    "normalRange": "<0.01",
+    "unit": "ng/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated troponin T indicates myocardial injury, commonly due to acute coronary syndrome."
+  },
+  {
+    "testType": "Cardiology",
+    "testName": "NT-proBNP",
+    "normalRange": "<125 (age <75), <450 (age ≥75)",
+    "unit": "pg/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated NT-proBNP suggests heart failure and increased ventricular wall stress."
+  },
+  {
+    "testType": "Cardiology",
+    "testName": "Lipoprotein(a)",
+    "normalRange": "<30",
+    "unit": "mg/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated Lp(a) is an independent risk factor for atherosclerosis and cardiovascular disease."
+  },
+  {
+    "testType": "Cardiology",
+    "testName": "Coronary Calcium Score (CT)",
+    "normalRange": "0",
+    "unit": "Agatston units",
+    "resultCategory": "H",
+    "resComment": "Elevated calcium score indicates coronary artery calcification and increased risk of coronary artery disease."
+  },
+
+  {
+    "testType": "Pulmonology",
+    "testName": "Spirometry",
+    "normalRange": "FEV1/FVC ≥ 0.7",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal spirometry indicates obstructive or restrictive lung disease. Common in asthma, COPD, or interstitial lung disease."
+  },
+  {
+    "testType": "Pulmonology",
+    "testName": "Peak Expiratory Flow Rate (PEFR)",
+    "normalRange": "400–700 (M), 300–500 (F)",
+    "unit": "L/min",
+    "resultCategory": "L",
+    "resComment": "Low PEFR suggests airway obstruction, commonly seen in asthma exacerbations."
+  },
+  {
+    "testType": "Pulmonology",
+    "testName": "Arterial Blood Gas (ABG)",
+    "normalRange": "pH 7.35–7.45, PaO₂ 75–100, PaCO₂ 35–45",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal ABG indicates respiratory or metabolic acidosis/alkalosis, hypoxemia, or hypercapnia."
+  },
+  {
+    "testType": "Pulmonology",
+    "testName": "Diffusing Capacity of the Lung for Carbon Monoxide (DLCO)",
+    "normalRange": "80–120% predicted",
+    "unit": "%",
+    "resultCategory": "L",
+    "resComment": "Low DLCO suggests impaired gas exchange, seen in interstitial lung disease, emphysema, or pulmonary hypertension."
+  },
+  {
+    "testType": "Pulmonology",
+    "testName": "Chest X-ray",
+    "normalRange": "Normal lung fields",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal chest X-ray may reveal pneumonia, tuberculosis, lung masses, or pleural effusion."
+  },
+  {
+    "testType": "Pulmonology",
+    "testName": "CT Chest (High-Resolution)",
+    "normalRange": "Normal lung parenchyma",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal HRCT reveals interstitial lung disease, pulmonary fibrosis, or emphysema."
+  },
+  
+  {
+    "testType": "Nephrology",
+    "testName": "Urinalysis",
+    "normalRange": "Clear, no protein, no blood, no glucose",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal urinalysis may reveal proteinuria, hematuria, glycosuria, or infection."
+  },
+  {
+    "testType": "Nephrology",
+    "testName": "24-Hour Urine Protein",
+    "normalRange": "<150",
+    "unit": "mg/24h",
+    "resultCategory": "H",
+    "resComment": "Elevated urine protein suggests nephrotic syndrome, glomerulonephritis, or diabetic nephropathy."
+  },
+  {
+    "testType": "Nephrology",
+    "testName": "Creatinine Clearance",
+    "normalRange": "90–140",
+    "unit": "mL/min",
+    "resultCategory": "L",
+    "resComment": "Low creatinine clearance indicates impaired renal function. Used to estimate GFR."
+  },
+  {
+    "testType": "Nephrology",
+    "testName": "Estimated Glomerular Filtration Rate (eGFR)",
+    "normalRange": ">90",
+    "unit": "mL/min/1.73m²",
+    "resultCategory": "L",
+    "resComment": "Low eGFR indicates chronic kidney disease. Staging depends on severity of reduction."
+  },
+  {
+    "testType": "Nephrology",
+    "testName": "Microalbuminuria",
+    "normalRange": "<30",
+    "unit": "mg/g creatinine",
+    "resultCategory": "H",
+    "resComment": "Elevated microalbuminuria suggests early diabetic nephropathy or hypertensive renal damage."
+  },
+  {
+    "testType": "Nephrology",
+    "testName": "Urine Electrolytes (Na, K, Cl)",
+    "normalRange": "Panel dependent",
+    "unit": "mmol/L",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal urine electrolytes help differentiate prerenal vs intrinsic renal failure and assess tubular function."
+  },
+  
+  {
+    "testType": "Neurology",
+    "testName": "Electroencephalogram (EEG)",
+    "normalRange": "Normal brain wave patterns",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal EEG may reveal epilepsy, encephalopathy, or focal brain lesions."
+  },
+  {
+    "testType": "Neurology",
+    "testName": "Electromyography (EMG)",
+    "normalRange": "Normal muscle electrical activity",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal EMG suggests neuromuscular disorders such as myopathy or peripheral neuropathy."
+  },
+  {
+    "testType": "Neurology",
+    "testName": "Nerve Conduction Studies (NCS)",
+    "normalRange": "Normal conduction velocity",
+    "unit": "m/s",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal NCS indicates peripheral neuropathy, demyelination, or axonal damage."
+  },
+  {
+    "testType": "Neurology",
+    "testName": "Cerebrospinal Fluid (CSF) Analysis",
+    "normalRange": "Clear, protein <45 mg/dL, glucose 50–80 mg/dL",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal CSF may reveal meningitis, subarachnoid hemorrhage, or multiple sclerosis."
+  },
+  {
+    "testType": "Neurology",
+    "testName": "Magnetic Resonance Imaging (MRI – Brain)",
+    "normalRange": "Normal brain structure",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal MRI may reveal stroke, tumors, demyelination, or neurodegenerative changes."
+  },
+  {
+    "testType": "Neurology",
+    "testName": "Evoked Potentials (Visual, Auditory, Somatosensory)",
+    "normalRange": "Normal latency and amplitude",
+    "unit": "ms",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal evoked potentials suggest demyelinating diseases such as multiple sclerosis or sensory pathway dysfunction."
+  },
+  
+  {
+    "testType": "Immunology",
+    "testName": "Antinuclear Antibody (ANA)",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive ANA suggests autoimmune disease such as systemic lupus erythematosus, Sjögren’s syndrome, or scleroderma."
+  },
+  {
+    "testType": "Immunology",
+    "testName": "Rheumatoid Factor (RF)",
+    "normalRange": "<20",
+    "unit": "IU/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated RF suggests rheumatoid arthritis or other autoimmune conditions."
+  },
+  {
+    "testType": "Immunology",
+    "testName": "Anti-dsDNA Antibody",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive anti-dsDNA antibody is highly specific for systemic lupus erythematosus (SLE)."
+  },
+  {
+    "testType": "Immunology",
+    "testName": "Anti-CCP Antibody",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive anti-CCP antibody strongly suggests rheumatoid arthritis and predicts disease severity."
+  },
+  {
+    "testType": "Immunology",
+    "testName": "Complement C3/C4 Levels",
+    "normalRange": "C3: 90–180 mg/dL, C4: 10–40 mg/dL",
+    "unit": "mg/dL",
+    "resultCategory": "L",
+    "resComment": "Low complement levels suggest active autoimmune disease such as lupus or immune complex-mediated disorders."
+  },
+  {
+    "testType": "Immunology",
+    "testName": "Immunoglobulin Panel (IgG, IgA, IgM, IgE)",
+    "normalRange": "Panel dependent",
+    "unit": "mg/dL",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal immunoglobulin levels suggest immune deficiency, chronic infection, allergy, or autoimmune disease."
+  },
+  
+  {
+    "testType": "Onco-Immunology",
+    "testName": "PD-L1 Expression (Immunohistochemistry)",
+    "normalRange": "Negative or <1%",
+    "unit": "%",
+    "resultCategory": "H",
+    "resComment": "Elevated PD-L1 expression suggests potential benefit from immune checkpoint inhibitors in cancers such as NSCLC and melanoma."
+  },
+  {
+    "testType": "Onco-Immunology",
+    "testName": "CTLA-4 Expression",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive CTLA-4 expression indicates immune checkpoint pathway activation. Guides use of CTLA-4 inhibitors in immunotherapy."
+  },
+  {
+    "testType": "Onco-Immunology",
+    "testName": "Cytokine Panel (IL-2, IL-6, TNF-α, IFN-γ)",
+    "normalRange": "Panel dependent",
+    "unit": "pg/mL",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal cytokine levels suggest immune dysregulation, cytokine storm, or tumor‑associated inflammation."
+  },
+  {
+    "testType": "Onco-Immunology",
+    "testName": "Flow Cytometry – Immunophenotyping",
+    "normalRange": "Normal lymphocyte subsets",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal immunophenotyping reveals hematological malignancies (e.g., leukemia, lymphoma) or immune deficiency."
+  },
+  {
+    "testType": "Onco-Immunology",
+    "testName": "Tumor-Infiltrating Lymphocytes (TILs)",
+    "normalRange": "Absent or low",
+    "unit": "",
+    "resultCategory": "H",
+    "resComment": "High TILs indicate active immune response against tumor. Associated with better prognosis in breast and melanoma cancers."
+  },
+  {
+    "testType": "Onco-Immunology",
+    "testName": "Immune Checkpoint Gene Panel",
+    "normalRange": "No pathogenic variants",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Pathogenic variants in immune checkpoint genes may influence response to immunotherapy and cancer progression."
+  },
+  
+  {
+    "testType": "Hematology",
+    "testName": "Bone Marrow Aspiration & Biopsy",
+    "normalRange": "Normal cellularity, no abnormal infiltrates",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal bone marrow findings may reveal leukemia, lymphoma, aplastic anemia, or myelodysplastic syndromes."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Flow Cytometry – Blast Immunophenotyping",
+    "normalRange": "No abnormal blast population",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal blast immunophenotyping confirms acute leukemia subtype and guides treatment."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Cytogenetic Analysis (Karyotyping)",
+    "normalRange": "Normal chromosomal pattern",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal karyotype reveals chromosomal translocations or deletions, important in leukemia prognosis."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Fluorescence In Situ Hybridization (FISH)",
+    "normalRange": "Negative for specific rearrangements",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive FISH detects genetic abnormalities such as BCR-ABL, PML-RARA, or del(17p)."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "Minimal Residual Disease (MRD) Testing",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive MRD indicates persistence of leukemic cells after treatment. Critical for prognosis and therapy adjustment."
+  },
+  {
+    "testType": "Hematology",
+    "testName": "JAK2 V617F Mutation Analysis",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive JAK2 mutation suggests myeloproliferative neoplasms such as polycythemia vera or essential thrombocythemia."
+  },
+  
+  {
+    "testType": "Histopathology",
+    "testName": "Biopsy Histology",
+    "normalRange": "Normal tissue architecture",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal biopsy histology may reveal malignancy, chronic inflammation, or degenerative changes."
+  },
+  {
+    "testType": "Histopathology",
+    "testName": "Pap Smear (Cervical Cytology)",
+    "normalRange": "Negative for intraepithelial lesion or malignancy",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal Pap smear suggests cervical dysplasia, HPV infection, or carcinoma in situ."
+  },
+  {
+    "testType": "Histopathology",
+    "testName": "Fine Needle Aspiration Cytology (FNAC)",
+    "normalRange": "Normal cellular morphology",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal FNAC findings may reveal neoplastic cells, granulomatous inflammation, or metastatic disease."
+  },
+  {
+    "testType": "Histopathology",
+    "testName": "Immunohistochemistry (IHC) Panel",
+    "normalRange": "Negative for tumor markers",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive IHC markers (e.g., HER2, ER, PR, Ki-67) guide cancer diagnosis, prognosis, and targeted therapy."
+  },
+  {
+    "testType": "Histopathology",
+    "testName": "Frozen Section Examination",
+    "normalRange": "No malignancy detected",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal frozen section confirms intraoperative diagnosis of malignancy or tissue pathology."
+  },
+  {
+    "testType": "Histopathology",
+    "testName": "Cytogenetic Cytology (Bone Marrow/Peripheral Smear)",
+    "normalRange": "Normal chromosomal pattern",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal cytogenetic cytology reveals chromosomal abnormalities associated with hematological malignancies."
+  },
+  
+  {
+    "testType": "Toxicology",
+    "testName": "Therapeutic Drug Monitoring – Digoxin",
+    "normalRange": "0.8–2.0",
+    "unit": "ng/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated digoxin levels suggest toxicity, presenting with arrhythmias, nausea, or visual disturbances."
+  },
+  {
+    "testType": "Toxicology",
+    "testName": "Therapeutic Drug Monitoring – Lithium",
+    "normalRange": "0.6–1.2",
+    "unit": "mmol/L",
+    "resultCategory": "H",
+    "resComment": "Elevated lithium levels indicate toxicity, with neurological and renal complications."
+  },
+  {
+    "testType": "Toxicology",
+    "testName": "Therapeutic Drug Monitoring – Valproic Acid",
+    "normalRange": "50–100",
+    "unit": "µg/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated valproic acid levels suggest toxicity, with hepatotoxicity and CNS depression."
+  },
+  {
+    "testType": "Toxicology",
+    "testName": "Heavy Metals – Lead",
+    "normalRange": "<5",
+    "unit": "µg/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated lead levels indicate lead poisoning, associated with anemia, neuropathy, and cognitive impairment."
+  },
+  {
+    "testType": "Toxicology",
+    "testName": "Heavy Metals – Mercury",
+    "normalRange": "<10",
+    "unit": "µg/L",
+    "resultCategory": "H",
+    "resComment": "Elevated mercury levels suggest exposure, causing neurotoxicity and renal impairment."
+  },
+  {
+    "testType": "Toxicology",
+    "testName": "Heavy Metals – Arsenic",
+    "normalRange": "<50",
+    "unit": "µg/L",
+    "resultCategory": "H",
+    "resComment": "Elevated arsenic levels indicate poisoning, presenting with GI symptoms, neuropathy, and skin changes."
+  },
+  {
+    "testType": "Toxicology",
+    "testName": "Drug Screen – Urine (Panel)",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive urine drug screen indicates presence of substances such as opioids, cannabinoids, amphetamines, or benzodiazepines."
+  },
+  
+  {
+    "testType": "Genomics",
+    "testName": "Whole Exome Sequencing (WES)",
+    "normalRange": "No pathogenic variants detected",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Pathogenic variants detected in exome sequencing may explain inherited disorders or cancer predisposition."
+  },
+  {
+    "testType": "Genomics",
+    "testName": "Whole Genome Sequencing (WGS)",
+    "normalRange": "No pathogenic variants detected",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Pathogenic variants detected in genome sequencing provide comprehensive insight into genetic disease risk."
+  },
+  {
+    "testType": "Genomics",
+    "testName": "Pharmacogenomic Panel (CYP2D6, CYP2C19, TPMT, DPYD)",
+    "normalRange": "Normal metabolizer status",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal pharmacogenomic variants affect drug metabolism and guide personalized therapy."
+  },
+  {
+    "testType": "Genomics",
+    "testName": "Mitochondrial DNA Mutation Analysis",
+    "normalRange": "No pathogenic mutations",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Pathogenic mitochondrial DNA mutations cause mitochondrial disorders with neuromuscular and metabolic manifestations."
+  },
+  {
+    "testType": "Genomics",
+    "testName": "HLA Typing",
+    "normalRange": "Normal allelic distribution",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal HLA typing is associated with autoimmune diseases and guides organ transplantation compatibility."
+  },
+  {
+    "testType": "Genomics",
+    "testName": "Polygenic Risk Score (PRS)",
+    "normalRange": "Average population risk",
+    "unit": "",
+    "resultCategory": "H",
+    "resComment": "High PRS indicates increased genetic susceptibility to complex diseases such as diabetes, heart disease, or cancer."
+  },
+  {
+    "testType": "Pathogen Genomics",
+    "testName": "Whole Genome Sequencing – Bacterial Pathogen",
+    "normalRange": "No pathogenic variants detected",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Pathogen genome sequencing identifies species, virulence factors, and resistance genes for precision treatment."
+  },
+  {
+    "testType": "Pathogen Genomics",
+    "testName": "MRSA Resistance Gene Detection (mecA)",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive mecA gene confirms methicillin-resistant Staphylococcus aureus (MRSA). Guides antibiotic selection."
+  },
+  {
+    "testType": "Pathogen Genomics",
+    "testName": "Multidrug-Resistant Tuberculosis (MDR-TB) Gene Panel",
+    "normalRange": "No resistance mutations",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Detection of rpoB, katG, or inhA mutations indicates resistance to rifampicin and isoniazid in TB."
+  },
+  {
+    "testType": "Pathogen Genomics",
+    "testName": "Carbapenemase Gene Detection (KPC, NDM, OXA-48)",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive carbapenemase genes indicate carbapenem-resistant Enterobacteriaceae (CRE). Critical for infection control."
+  },
+  {
+    "testType": "Pathogen Genomics",
+    "testName": "HIV Genotypic Resistance Testing",
+    "normalRange": "No resistance mutations",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Detection of HIV resistance mutations guides antiretroviral therapy selection."
+  },
+  {
+    "testType": "Pathogen Genomics",
+    "testName": "Influenza Virus Genome Sequencing",
+    "normalRange": "No pathogenic variants",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Sequencing influenza virus identifies strain type and mutations relevant for vaccine design and antiviral resistance."
+  },
+  
+  
+  {
+    "testType": "Endocrinology",
+    "testName": "Growth Hormone (GH)",
+    "normalRange": "<5 (fasting)",
+    "unit": "ng/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated GH suggests acromegaly or gigantism. Suppression testing with glucose is recommended."
+  },
+  {
+    "testType": "Endocrinology",
+    "testName": "Insulin",
+    "normalRange": "2–25",
+    "unit": "µIU/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated insulin suggests insulin resistance, metabolic syndrome, or insulinoma."
+  },
+  {
+    "testType": "Endocrinology",
+    "testName": "Insulin-Like Growth Factor 1 (IGF-1)",
+    "normalRange": "Age-dependent",
+    "unit": "ng/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated IGF-1 supports diagnosis of acromegaly. Low levels suggest GH deficiency."
+  },
+  {
+    "testType": "Endocrinology",
+    "testName": "Prolactin",
+    "normalRange": "<20 (M), <25 (F)",
+    "unit": "ng/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated prolactin suggests prolactinoma, hypothyroidism, or drug-induced hyperprolactinemia."
+  },
+  {
+    "testType": "Endocrinology",
+    "testName": "Leptin",
+    "normalRange": "Panel dependent",
+    "unit": "ng/mL",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal leptin levels indicate obesity, metabolic syndrome, or lipodystrophy."
+  },
+  {
+    "testType": "Endocrinology",
+    "testName": "Adiponectin",
+    "normalRange": "5–30",
+    "unit": "µg/mL",
+    "resultCategory": "L",
+    "resComment": "Low adiponectin suggests insulin resistance, type 2 diabetes, or cardiovascular risk."
+  },
+  
+  {
+    "testType": "Reproductive",
+    "testName": "Follicle-Stimulating Hormone (FSH)",
+    "normalRange": "M: 1.5–12.4, F: cycle dependent",
+    "unit": "mIU/mL",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal FSH suggests ovarian failure, menopause, or testicular dysfunction."
+  },
+  {
+    "testType": "Reproductive",
+    "testName": "Luteinizing Hormone (LH)",
+    "normalRange": "M: 1.7–8.6, F: cycle dependent",
+    "unit": "mIU/mL",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal LH indicates ovulatory dysfunction, PCOS, or pituitary disorders."
+  },
+  {
+    "testType": "Reproductive",
+    "testName": "Estradiol (E2)",
+    "normalRange": "F: 30–400 (cycle dependent)",
+    "unit": "pg/mL",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal estradiol suggests ovarian dysfunction, estrogen-secreting tumors, or menopausal status."
+  },
+  {
+    "testType": "Reproductive",
+    "testName": "Progesterone",
+    "normalRange": "F: <1 (follicular), >10 (luteal)",
+    "unit": "ng/mL",
+    "resultCategory": "Abn",
+    "resComment": "Low luteal progesterone suggests anovulation or luteal phase defect."
+  },
+  {
+    "testType": "Reproductive",
+    "testName": "Testosterone",
+    "normalRange": "M: 300–1000, F: 15–70",
+    "unit": "ng/dL",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal testosterone suggests hypogonadism, PCOS, or androgen-secreting tumors."
+  },
+  {
+    "testType": "Reproductive",
+    "testName": "Anti-Müllerian Hormone (AMH)",
+    "normalRange": "1.0–4.0",
+    "unit": "ng/mL",
+    "resultCategory": "L",
+    "resComment": "Low AMH indicates reduced ovarian reserve. Elevated AMH may suggest PCOS."
+  },
+  {
+    "testType": "Reproductive",
+    "testName": "Semen Analysis",
+    "normalRange": "Volume ≥1.5 mL, Concentration ≥15 million/mL, Motility ≥40%",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal semen analysis suggests male infertility due to low count, poor motility, or abnormal morphology."
+  },
+  
+  {
+    "testType": "Pediatrics",
+    "testName": "APGAR Score",
+    "normalRange": "7–10 at 1 and 5 minutes",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Low APGAR score indicates neonatal distress, requiring immediate resuscitation or supportive care."
+  },
+  {
+    "testType": "Pediatrics",
+    "testName": "Neonatal Bilirubin",
+    "normalRange": "<5 (day 1), <12 (day 3)",
+    "unit": "mg/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated neonatal bilirubin suggests jaundice, hemolysis, or impaired hepatic conjugation."
+  },
+  {
+    "testType": "Pediatrics",
+    "testName": "Newborn Screening – Phenylketonuria (PKU)",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive PKU screening indicates phenylalanine hydroxylase deficiency. Requires dietary management."
+  },
+  {
+    "testType": "Pediatrics",
+    "testName": "Newborn Screening – Congenital Hypothyroidism",
+    "normalRange": "TSH <20",
+    "unit": "mIU/L",
+    "resultCategory": "H",
+    "resComment": "Elevated TSH in newborn suggests congenital hypothyroidism. Early treatment prevents developmental delay."
+  },
+  {
+    "testType": "Pediatrics",
+    "testName": "Newborn Screening – Cystic Fibrosis",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive CF screening suggests cystic fibrosis. Confirmed by sweat chloride testing and genetic analysis."
+  },
+  {
+    "testType": "Pediatrics",
+    "testName": "Growth Chart Assessment",
+    "normalRange": "Within WHO percentile curves",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal growth chart indicates undernutrition, endocrine disorders, or chronic illness."
+  },
+  
+  {
+    "testType": "Geriatrics",
+    "testName": "Bone Mineral Density (DEXA Scan)",
+    "normalRange": "T-score ≥ -1.0",
+    "unit": "T-score",
+    "resultCategory": "L",
+    "resComment": "Low bone density indicates osteopenia or osteoporosis, increasing fracture risk."
+  },
+  {
+    "testType": "Geriatrics",
+    "testName": "Frailty Index",
+    "normalRange": "Score <0.25",
+    "unit": "",
+    "resultCategory": "H",
+    "resComment": "High frailty index suggests vulnerability to adverse health outcomes and reduced resilience."
+  },
+  {
+    "testType": "Geriatrics",
+    "testName": "Vitamin D (25‑OH)",
+    "normalRange": "30–100",
+    "unit": "ng/mL",
+    "resultCategory": "L",
+    "resComment": "Low vitamin D is common in elderly patients and increases risk of falls, fractures, and bone disease."
+  },
+  {
+    "testType": "Geriatrics",
+    "testName": "Mini-Mental State Examination (MMSE)",
+    "normalRange": "≥24",
+    "unit": "Score",
+    "resultCategory": "L",
+    "resComment": "Low MMSE score suggests cognitive impairment, dementia, or delirium."
+  },
+  {
+    "testType": "Geriatrics",
+    "testName": "Fall Risk Assessment",
+    "normalRange": "Low risk",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "High fall risk suggests impaired balance, muscle weakness, or environmental hazards."
+  },
+  {
+    "testType": "Geriatrics",
+    "testName": "Comprehensive Geriatric Assessment (CGA)",
+    "normalRange": "Normal functional status",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal CGA reveals deficits in physical, cognitive, psychological, or social domains requiring multidisciplinary care."
+  },
+  
+  {
+    "testType": "Emergency",
+    "testName": "Arterial Lactate",
+    "normalRange": "0.5–2.2",
+    "unit": "mmol/L",
+    "resultCategory": "H",
+    "resComment": "Elevated lactate indicates tissue hypoperfusion, sepsis, or shock. Used to monitor resuscitation effectiveness."
+  },
+  {
+    "testType": "Emergency",
+    "testName": "Arterial Blood Gas (ABG)",
+    "normalRange": "pH 7.35–7.45, PaO₂ 75–100, PaCO₂ 35–45",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal ABG indicates respiratory failure, metabolic acidosis/alkalosis, or impaired oxygenation."
+  },
+  {
+    "testType": "Emergency",
+    "testName": "Shock Panel (Base Deficit, Lactate, pH)",
+    "normalRange": "Panel dependent",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal shock panel suggests circulatory collapse, trauma, or sepsis."
+  },
+  {
+    "testType": "Emergency",
+    "testName": "Trauma Scoring – Glasgow Coma Scale (GCS)",
+    "normalRange": "Score 15",
+    "unit": "",
+    "resultCategory": "L",
+    "resComment": "Low GCS indicates impaired consciousness due to trauma, stroke, or intoxication."
+  },
+  {
+    "testType": "Emergency",
+    "testName": "Sepsis Biomarker – Procalcitonin",
+    "normalRange": "<0.1",
+    "unit": "ng/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated procalcitonin suggests bacterial sepsis. Guides antibiotic therapy decisions."
+  },
+  {
+    "testType": "Emergency",
+    "testName": "D-Dimer",
+    "normalRange": "<0.5",
+    "unit": "µg/mL FEU",
+    "resultCategory": "H",
+    "resComment": "Elevated D-dimer suggests thromboembolism, disseminated intravascular coagulation, or trauma."
+  },
+  {
+    "testType": "Occupational",
+    "testName": "Blood Lead Level",
+    "normalRange": "<5",
+    "unit": "µg/dL",
+    "resultCategory": "H",
+    "resComment": "Elevated blood lead indicates occupational exposure, associated with anemia, neuropathy, and cognitive impairment."
+  },
+  {
+    "testType": "Occupational",
+    "testName": "Urinary Pesticide Biomarkers",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive pesticide biomarkers suggest agricultural or industrial exposure. Associated with neurotoxicity and endocrine disruption."
+  },
+  {
+    "testType": "Occupational",
+    "testName": "Blood Carbon Monoxide (Carboxyhemoglobin)",
+    "normalRange": "<2",
+    "unit": "%",
+    "resultCategory": "H",
+    "resComment": "Elevated carboxyhemoglobin indicates carbon monoxide poisoning, common in fire or industrial exposure."
+  },
+  {
+    "testType": "Occupational",
+    "testName": "Noise-Induced Hearing Loss Screening (Audiometry)",
+    "normalRange": "Normal hearing thresholds",
+    "unit": "dB",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal audiometry suggests occupational hearing loss due to chronic noise exposure."
+  },
+  {
+    "testType": "Environmental",
+    "testName": "Air Quality Impact Test (Particulate Matter PM2.5)",
+    "normalRange": "<12",
+    "unit": "µg/m³",
+    "resultCategory": "H",
+    "resComment": "Elevated PM2.5 exposure increases risk of respiratory and cardiovascular disease."
+  },
+  {
+    "testType": "Environmental",
+    "testName": "Urinary Cadmium",
+    "normalRange": "<1",
+    "unit": "µg/L",
+    "resultCategory": "H",
+    "resComment": "Elevated cadmium suggests occupational or environmental exposure, associated with renal and bone toxicity."
+  },
+  
+  {
+    "testType": "Sports Medicine",
+    "testName": "VO₂ Max",
+    "normalRange": "35–50 (average adults), >60 (elite athletes)",
+    "unit": "mL/kg/min",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal VO₂ max indicates reduced aerobic capacity or exceptional endurance performance."
+  },
+  {
+    "testType": "Sports Medicine",
+    "testName": "Lactate Threshold",
+    "normalRange": "2–4",
+    "unit": "mmol/L",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal lactate threshold suggests impaired endurance or elite adaptation to high-intensity exercise."
+  },
+  {
+    "testType": "Sports Medicine",
+    "testName": "Creatine Kinase (CK)",
+    "normalRange": "30–200",
+    "unit": "U/L",
+    "resultCategory": "H",
+    "resComment": "Elevated CK indicates muscle injury, overtraining, or rhabdomyolysis."
+  },
+  {
+    "testType": "Sports Medicine",
+    "testName": "Hydration Status – Urine Specific Gravity",
+    "normalRange": "1.005–1.030",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal urine specific gravity suggests dehydration or overhydration."
+  },
+  {
+    "testType": "Sports Medicine",
+    "testName": "Injury Biomarker – Myoglobin",
+    "normalRange": "25–72",
+    "unit": "ng/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated myoglobin indicates acute muscle injury or rhabdomyolysis."
+  },
+  {
+    "testType": "Sports Medicine",
+    "testName": "Body Composition Analysis",
+    "normalRange": "M: 10–20% fat, F: 18–28% fat",
+    "unit": "%",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal body composition indicates undernutrition, obesity, or elite athletic conditioning."
+  },
+  
+  {
+    "testType": "Nutrition",
+    "testName": "Serum Vitamin A",
+    "normalRange": "20–60",
+    "unit": "µg/dL",
+    "resultCategory": "L",
+    "resComment": "Low vitamin A suggests deficiency, associated with night blindness and immune dysfunction."
+  },
+  {
+    "testType": "Nutrition",
+    "testName": "Serum Vitamin E",
+    "normalRange": "5–20",
+    "unit": "mg/L",
+    "resultCategory": "L",
+    "resComment": "Low vitamin E suggests deficiency, associated with neuropathy and hemolysis."
+  },
+  {
+    "testType": "Nutrition",
+    "testName": "Serum Zinc",
+    "normalRange": "70–120",
+    "unit": "µg/dL",
+    "resultCategory": "L",
+    "resComment": "Low zinc suggests deficiency, associated with poor wound healing, growth retardation, and immune dysfunction."
+  },
+  {
+    "testType": "Nutrition",
+    "testName": "Serum Copper",
+    "normalRange": "70–140",
+    "unit": "µg/dL",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal copper levels suggest Wilson’s disease, Menkes disease, or nutritional imbalance."
+  },
+  {
+    "testType": "Nutrition",
+    "testName": "Amino Acid Profile",
+    "normalRange": "Panel dependent",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal amino acid profile suggests inborn errors of metabolism or malnutrition."
+  },
+  {
+    "testType": "Nutrition",
+    "testName": "Carnitine (Free & Total)",
+    "normalRange": "25–50",
+    "unit": "µmol/L",
+    "resultCategory": "L",
+    "resComment": "Low carnitine suggests metabolic disorders affecting fatty acid oxidation."
+  },
+  {
+    "testType": "Nutrition",
+    "testName": "Metabolic Panel – Organic Acids",
+    "normalRange": "Panel dependent",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal organic acids indicate metabolic disorders such as mitochondrial dysfunction or amino acidopathies."
+  },
+  
+  {
+    "testType": "Psychiatry",
+    "testName": "Neurotransmitter Metabolites (5‑HIAA, HVA)",
+    "normalRange": "Panel dependent",
+    "unit": "µmol/L",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal levels suggest serotonin or dopamine metabolism disorders, linked to depression, anxiety, or schizophrenia."
+  },
+  {
+    "testType": "Psychiatry",
+    "testName": "Cortisol Awakening Response (CAR)",
+    "normalRange": "Increase 50–75% within 30 minutes",
+    "unit": "%",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal CAR indicates stress dysregulation, burnout, or adrenal dysfunction."
+  },
+  {
+    "testType": "Psychiatry",
+    "testName": "Psychiatric Rating Scale – Hamilton Depression Rating Scale (HAM‑D)",
+    "normalRange": "Score <7",
+    "unit": "",
+    "resultCategory": "H",
+    "resComment": "High HAM‑D score indicates moderate to severe depression."
+  },
+  {
+    "testType": "Psychiatry",
+    "testName": "Psychiatric Rating Scale – Beck Anxiety Inventory (BAI)",
+    "normalRange": "Score <10",
+    "unit": "",
+    "resultCategory": "H",
+    "resComment": "High BAI score indicates clinically significant anxiety."
+  },
+  {
+    "testType": "Psychiatry",
+    "testName": "Polysomnography (Sleep Study)",
+    "normalRange": "Normal sleep architecture",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal sleep study reveals sleep apnea, insomnia, or parasomnias."
+  },
+  {
+    "testType": "Psychiatry",
+    "testName": "Electroencephalogram (EEG – Psychiatric Use)",
+    "normalRange": "Normal brain wave patterns",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal EEG may reveal psychiatric comorbidities such as epilepsy‑related mood disorders or encephalopathy."
+  },
+  
+  {
+    "testType": "Dermatology",
+    "testName": "Skin Biopsy Histology",
+    "normalRange": "Normal epidermal and dermal architecture",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal biopsy reveals inflammatory dermatoses, autoimmune disease, or malignancy such as melanoma."
+  },
+  {
+    "testType": "Dermatology",
+    "testName": "Patch Testing (Allergen Sensitivity)",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive patch test indicates allergic contact dermatitis to specific allergens."
+  },
+  {
+    "testType": "Dermatology",
+    "testName": "Dermoscopy",
+    "normalRange": "Normal pigment pattern",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal dermoscopy reveals atypical pigment networks, vascular structures, or melanoma features."
+  },
+  {
+    "testType": "Dermatology",
+    "testName": "Fungal Scrapings (KOH Mount)",
+    "normalRange": "No fungal elements",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive fungal scrapings indicate dermatophytosis, candidiasis, or other superficial fungal infections."
+  },
+  {
+    "testType": "Dermatology",
+    "testName": "Autoimmune Skin Marker – Direct Immunofluorescence",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive immunofluorescence suggests autoimmune blistering diseases such as pemphigus or bullous pemphigoid."
+  },
+  {
+    "testType": "Dermatology",
+    "testName": "Skin Prick Test (Immediate Hypersensitivity)",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive skin prick test indicates IgE-mediated allergy to environmental or food allergens."
+  },
+  
+  {
+    "testType": "Cardiology",
+    "testName": "Echocardiography",
+    "normalRange": "Normal chamber size and function",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal echocardiogram reveals valvular disease, cardiomyopathy, or reduced ejection fraction."
+  },
+  {
+    "testType": "Cardiology",
+    "testName": "Cardiac MRI",
+    "normalRange": "Normal myocardial structure",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal cardiac MRI reveals myocardial infarction, fibrosis, congenital anomalies, or infiltrative disease."
+  },
+  {
+    "testType": "Cardiology",
+    "testName": "Exercise Stress Test (Treadmill ECG)",
+    "normalRange": "No ischemic changes",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal stress test suggests myocardial ischemia or reduced exercise tolerance."
+  },
+  {
+    "testType": "Cardiology",
+    "testName": "Holter Monitoring (24–48h ECG)",
+    "normalRange": "Normal sinus rhythm",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal Holter reveals arrhythmias such as atrial fibrillation, ventricular tachycardia, or conduction blocks."
+  },
+  {
+    "testType": "Cardiology",
+    "testName": "Coronary Angiography",
+    "normalRange": "No stenosis",
+    "unit": "%",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal angiography reveals coronary artery stenosis or occlusion, guiding revascularization."
+  },
+  {
+    "testType": "Cardiology",
+    "testName": "Cardiac Biomarker – NT-proBNP",
+    "normalRange": "<125",
+    "unit": "pg/mL",
+    "resultCategory": "H",
+    "resComment": "Elevated NT-proBNP suggests heart failure and increased ventricular wall stress."
+  },
+  
+  {
+    "testType": "Pulmonology",
+    "testName": "Spirometry",
+    "normalRange": "FEV₁/FVC ≥70%",
+    "unit": "%",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal spirometry suggests obstructive or restrictive lung disease such as asthma or COPD."
+  },
+  {
+    "testType": "Pulmonology",
+    "testName": "Chest CT Scan",
+    "normalRange": "Normal lung parenchyma",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal chest CT reveals nodules, fibrosis, emphysema, or interstitial lung disease."
+  },
+  {
+    "testType": "Pulmonology",
+    "testName": "Bronchoscopy",
+    "normalRange": "Normal airway mucosa",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal bronchoscopy reveals airway obstruction, tumors, or infection. Allows biopsy and lavage."
+  },
+  {
+    "testType": "Pulmonology",
+    "testName": "Arterial Blood Gas (ABG)",
+    "normalRange": "pH 7.35–7.45, PaO₂ 75–100, PaCO₂ 35–45",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal ABG indicates hypoxemia, hypercapnia, or acid-base imbalance due to respiratory failure."
+  },
+  {
+    "testType": "Pulmonology",
+    "testName": "Diffusion Capacity (DLCO)",
+    "normalRange": "80–120% predicted",
+    "unit": "%",
+    "resultCategory": "L",
+    "resComment": "Low DLCO suggests interstitial lung disease, emphysema, or pulmonary vascular disease."
+  },
+  {
+    "testType": "Pulmonology",
+    "testName": "Peak Expiratory Flow Rate (PEFR)",
+    "normalRange": "Age/sex dependent",
+    "unit": "L/min",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal PEFR indicates airway obstruction, commonly used in asthma monitoring."
+  },
+  
+  {
+    "testType": "Neurology",
+    "testName": "Electroencephalogram (EEG)",
+    "normalRange": "Normal brain wave patterns",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal EEG reveals epilepsy, encephalopathy, or focal brain lesions."
+  },
+  {
+    "testType": "Neurology",
+    "testName": "Electromyography (EMG)",
+    "normalRange": "Normal muscle electrical activity",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal EMG indicates neuromuscular disorders such as myopathy or neuropathy."
+  },
+  {
+    "testType": "Neurology",
+    "testName": "Nerve Conduction Studies (NCS)",
+    "normalRange": "Normal conduction velocity",
+    "unit": "m/s",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal NCS suggests peripheral neuropathy, demyelination, or axonal injury."
+  },
+  {
+    "testType": "Neurology",
+    "testName": "Brain MRI",
+    "normalRange": "Normal brain structure",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal brain MRI reveals stroke, tumors, demyelination, or neurodegenerative disease."
+  },
+  {
+    "testType": "Neurology",
+    "testName": "Cerebrospinal Fluid (CSF) Analysis",
+    "normalRange": "Clear, protein <45 mg/dL, glucose 40–70 mg/dL",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal CSF suggests meningitis, subarachnoid hemorrhage, or multiple sclerosis."
+  },
+  {
+    "testType": "Neurology",
+    "testName": "Evoked Potentials (Visual, Auditory, Somatosensory)",
+    "normalRange": "Normal latency and amplitude",
+    "unit": "ms",
+    "resultCategory": "Abn",
+    "resComment": "Abnormal evoked potentials indicate demyelinating disease, optic neuritis, or brainstem dysfunction."
+  },
+
+  {
+    "testType": "Infectious Disease",
+    "testName": "Typhoid IgM Antibody",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive IgM indicates acute or recent typhoid infection. Appears early in the disease course."
+  },
+  {
+    "testType": "Infectious Disease",
+    "testName": "Typhoid IgG Antibody",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive IgG indicates past typhoid infection or exposure. Suggests immune memory or chronic carrier state."
+  },
+  {
+    "testType": "Infectious Disease",
+    "testName": "Typhoid IgG/IgM  Test",
+    "normalRange": "Both negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "IgM+/IgG- suggests acute infection. IgM-/IgG+ suggests past infection or immunity. IgM+/IgG+ suggests ongoing infection transitioning to immunity."
+  },
+  
+  {
+    "testType": "Infectious Disease",
+    "testName": "H. pylori Ag Test",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive stool antigen confirms active H. pylori infection. Useful for diagnosis and post-treatment monitoring."
+  },
+  {
+    "testType": "Infectious Disease",
+    "testName": "H. pylori Urea Breath Test",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive breath test indicates active H. pylori infection. Highly sensitive and specific."
+  },
+  {
+    "testType": "Infectious Disease",
+    "testName": "H. pylori IgG Antibody",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive IgG suggests past or chronic H. pylori infection. Not reliable for active infection."
+  },
+  {
+    "testType": "Infectious Disease",
+    "testName": "H. pylori Ab Test",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive H. pylori Ab Test indicates recent or acute H. pylori infection."
+  },
+  {
+    "testType": "Infectious Disease",
+    "testName": "H. pylori Rapid Antigen Test",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive rapid antigen test provides quick evidence of H. pylori infection. Used for screening."
+  },
+  
+  {
+    "testType": "Infectious Disease",
+    "testName": "VDRL/TPHA ",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive TPHA indicates exposure to Treponema pallidum. Used as a confirmatory test for syphilis."
+  },
+  {
+    "testType": "Infectious Disease",
+    "testName": "VDRL ",
+    "normalRange": "Non-reactive",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Reactive VDRL suggests active syphilis infection. May be false-positive in autoimmune or other infections."
+  },
+  {
+    "testType": "Infectious Disease",
+    "testName": "RPR ",
+    "normalRange": "Non-reactive",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Reactive RPR indicates syphilis infection. Used for screening and monitoring treatment response."
+  },
+  {
+    "testType": "Infectious Disease",
+    "testName": "FTA-ABS ",
+    "normalRange": "Negative",
+    "unit": "",
+    "resultCategory": "Abn",
+    "resComment": "Positive FTA-ABS confirms syphilis infection. Highly specific treponemal test."
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
